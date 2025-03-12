@@ -1,0 +1,1 @@
+# crypto-analitic-platform
