@@ -74,5 +74,4 @@ async def pars_filtred():
                             additional_settings=additional_settings,
                         )
                     )
-    # вывод
     return returning_flats
